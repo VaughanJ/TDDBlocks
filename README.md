@@ -1,4 +1,4 @@
 TDDBlocks
 =========
 
-A simple like Tetris game to test TDD and XNA
+A simple Tetris like game to test TDD and XNA.
